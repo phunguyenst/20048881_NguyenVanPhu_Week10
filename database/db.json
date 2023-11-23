@@ -1,7 +1,7 @@
 {
   "note": [
     {
-      "name": "clean the house",
+      "name": "clean the toilet",
       "id": "1"
     },
     {
@@ -15,6 +15,10 @@
       "name": "Finish project report",
       "type": "short_term",
       "priority": "medium"
+    },
+    {
+      "name": "go to the market",
+      "id": "eR4g1d-"
     }
   ]
 }
